@@ -1,0 +1,114 @@
+{
+  "name" : "Mehmet",
+  "surname" : "Sarıoğlu",
+  "email" : "mehmetsrl5@gmail.com",
+  "description" : "I'm Mehmet Sarıoğlu, I've graduated with Bachelor of Computer Education and Instructional Technologies department and Master of Computer Engineering department from Middle East Technical University. Now, I'm employed at Turkish Aerospace Industries as Human Factors Engineer. I'm developing testing softwares to evaluate usability and design, and developing virtual interfaces of products.",
+  "pictureImageUrl" : "images/profilePicture.jpg",  
+  "placeholderImageUrl" : "images/img_placeholder.png",
+  "competencies" : {
+    "outOf":5,
+    "values":
+    [
+        {
+           "competencyLevel" : 4,
+           "competencyName" : "Research and Development"
+        },
+        {
+           "competencyLevel" : 4,
+           "competencyName" : "Game Development"
+        },
+        {
+           "competencyLevel" : 3,
+           "competencyName" : "Software Architecture"
+        }
+    ]
+  },
+  "keywords" :
+    [
+      {
+         "keywordId" : "unity",
+         "keywordMention" : 0,
+         "keywordName" : "Unity 3D"
+      },
+      {
+        "keywordId" : "flutter",
+        "keywordMention" : 0,
+         "keywordName" : "Flutter"
+      },
+      {
+        "keywordId" : "vr",
+        "keywordMention" : 0,
+         "keywordName" : "VR"
+      },
+      {
+        "keywordId" : "ar",
+        "keywordMention" : 0,
+         "keywordName" : "AR"
+      },
+      {
+        "keywordId" : "xr",
+        "keywordMention" : 0,
+         "keywordName" : "XR"
+      },
+      {
+        "keywordId" : "ml",
+        "keywordMention" : 0,
+         "keywordName" : "Magicleap"
+      },
+      {
+        "keywordId" : "vive",
+        "keywordMention" : 0,
+         "keywordName" : "HTC Vive"
+      },
+      {
+        "keywordId" : "cs",
+        "keywordMention" : 0,
+         "keywordName" : "C#"
+      },
+      {
+        "keywordId" : "dart",
+        "keywordMention" : 0,
+         "keywordName" : "Dart"
+      },
+      {
+        "keywordId" : "webDev",
+        "keywordMention" : 0,
+         "keywordName" : "Web Development"
+      },
+      {
+        "keywordId" : "designPatterns",
+        "keywordMention" : 0,
+         "keywordName" : "Design Patterns"
+      },
+      {
+        "keywordId" : "eyeTracking",
+        "keywordMention" : 0,
+         "keywordName" : "Eye Tracking"
+      },
+      {
+        "keywordId" : "native",
+        "keywordMention" : 0,
+         "keywordName" : "Native"
+      }
+    ],
+    "languages" : {
+      "outOf" : 5,
+      "values":[
+        {
+          "readingLevel" : -1,
+          "writingLevel" : -1,
+          "listeningLevel" : -1,
+          "overallLevel" : -1,
+          "languageName" : "Turkish"
+        },
+        {
+          "readingLevel" : 4,
+          "writingLevel" : 4,
+          "listeningLevel" : 3,
+          "overallLevel" : 4,
+          "languageName" : "English"
+        }
+      ]
+    },
+  "metaContentUrl" : "content/metaContent.json"
+}

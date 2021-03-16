@@ -1,0 +1,5 @@
+{
+  "personalInfoPath" : "personalInfo.json",
+  "eventListPath" : "eventList.json",
+  "productListPath" : "productList.json"
+}

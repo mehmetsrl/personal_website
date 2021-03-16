@@ -1,0 +1,117 @@
+{
+  "products": [
+    {
+      "productId": "p1",
+      "title": "Project 1",
+      "bannerImageUrl": "images/unityBanner.jpg",
+      "keywords": [
+        "unity",
+        "vr"
+      ],
+      "displays": [
+        {
+          "displayType": "imageDisplay",
+          "content": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "productId": "p2",
+      "title": "Project 2",
+      "bannerImageUrl": "images/flutterBanner.jpg",
+      "keywords": [
+        "flutter",
+        "xr"
+      ],
+      "displays": [
+        {
+          "displayType": "codeDisplay",
+          "content": [
+            "EventItemModel(\n\t title: 'Academic Event',\n\t\t type: EventType.academic,\n\t\t details: 'I started school at somewhere',\n\t\t imageUrl:\n\t\t\t 'someImage.jpg',\n\t\t time: DateTime.parse(),\n\tbackgroundColor: Colors.lightGreen,\n)\n"
+          ]
+        }
+      ]
+    },
+    {
+      "productId": "p3",
+      "title": "Project 3",
+      "bannerImageUrl": "images/unityBanner.jpg",
+      "keywords": [
+        "unity",
+        "ml",
+        "xr"
+      ],
+      "displays": [
+        {
+          "displayType": "unityDisplay",
+          "content": [
+            "unitySourcePath"
+          ]
+        }
+      ]
+    },
+    {
+      "productId": "p4",
+      "title": "Project 4",
+      "bannerImageUrl": "images/unityBanner.jpg",
+      "keywords": [
+        "unity",
+        "vive",
+        "vr"
+      ],
+      "displays": [
+        {
+          "displayType": "arDisplay",
+          "content": [
+            "ARTestPage"
+          ]
+        }
+      ]
+    },
+    {
+      "productId": "p5",
+      "title": "Project 5",
+      "bannerImageUrl": "images/nativeCsBanner.jpg",
+      "keywords": [
+        "native",
+        "cs",
+        "designPatterns"
+      ],
+      "displays": [
+        {
+          "displayType": "textDisplay",
+          "content": [
+            "This is text view."
+          ]
+        }
+      ]
+    },
+    {
+      "productId": "p6",
+      "title": "Project 6 Mix",
+      "bannerImageUrl": "images/unityBanner.jpg",
+      "keywords": [
+        "unity",
+        "eyeTracking"
+      ],
+      "displays": [
+        {
+          "displayType": "textDisplay",
+          "content": [
+            "This is mixed view."
+          ]
+        },
+        {
+          "displayType": "imageDisplay",
+          "content": [
+            "",
+            ""
+          ]
+        }
+      ]
+    }
+  ]
+}

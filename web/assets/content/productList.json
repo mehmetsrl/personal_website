@@ -1,0 +1,128 @@
+{
+"products":
+  [
+    {
+      "productId" : "p1",
+      "title" : "Project 1",
+      "bannerImageUrl":
+        "https://www.filledstacks.com/assets/static/32.81b85c1.ebb7a1aaddfef10313d7bab97243d449.jpg",
+      "keywords":[
+          "unity",
+          "vr"
+      ],
+      "displays":[
+        {
+          "displayType" : "imageDisplay",
+          "content" :
+            [
+              "https://www.filledstacks.com/assets/static/32.81b85c1.ebb7a1aaddfef10313d7bab97243d449.jpg",
+              "https://www.filledstacks.com/assets/static/32.81b85c1.ebb7a1aaddfef10313d7bab97243d449.jpg"
+            ]
+        }
+      ]
+    },
+    {
+      "productId" : "p2",
+      "title" : "Project 2",
+      "bannerImageUrl":
+        "https://www.filledstacks.com/assets/static/32.81b85c1.ebb7a1aaddfef10313d7bab97243d449.jpg",
+      "keywords":[
+          "flutter",
+          "xr"
+      ],
+      "displays":[
+        {
+          "displayType" : "codeDisplay",
+          "content" :
+            [
+              "EventItemModel(\n\t title: 'Academic Event',\n\t\t type: EventType.academic,\n\t\t details: 'I started school at somewhere',\n\t\t imageUrl:\n\t\t\t 'someImage.jpg',\n\t\t time: DateTime.parse(),\n\tbackgroundColor: Colors.lightGreen,\n)\n"
+            ]
+        }
+      ]
+    },
+    {
+      "productId" : "p3",
+      "title" : "Project 3",
+      "bannerImageUrl":
+        "https://www.filledstacks.com/assets/static/32.81b85c1.ebb7a1aaddfef10313d7bab97243d449.jpg",
+      "keywords":[
+          "ml",
+          "xr"
+      ],
+      "displays":[
+        {
+          "displayType" : "unityDisplay",
+          "content" :
+            [
+              "unitySourcePath"
+            ]
+        }
+      ]
+    },
+    {
+      "productId" : "p4",
+      "title" : "Project 4",
+      "bannerImageUrl":
+        "https://www.filledstacks.com/assets/static/32.81b85c1.ebb7a1aaddfef10313d7bab97243d449.jpg",
+      "keywords":[
+          "vive",
+          "vr"
+      ],
+      "displays":[
+        {
+          "displayType" : "arDisplay",
+          "content" :
+            [
+              "ARTestPage"
+            ]
+        }
+      ]
+    },
+    {
+      "productId" : "p5",
+      "title" : "Project 5",
+      "bannerImageUrl":
+        "https://www.filledstacks.com/assets/static/32.81b85c1.ebb7a1aaddfef10313d7bab97243d449.jpg",
+      "keywords":[
+          "cs",
+          "designPatterns"
+      ],
+      "displays":[
+        {
+          "displayType" : "textDisplay",
+          "content" :
+            [
+              "This is text view."
+            ]
+        }
+      ]
+    },
+    {
+      "productId" : "p6",
+      "title" : "Project 6 Mix",
+      "bannerImageUrl":
+        "https://www.filledstacks.com/assets/static/32.81b85c1.ebb7a1aaddfef10313d7bab97243d449.jpg",
+      "keywords":[
+          "unity",
+          "eyeTracking"
+      ],
+      "displays":[
+        {
+          "displayType" : "textDisplay",
+          "content" :
+            [
+              "This is mixed view."
+            ]
+        },
+        {
+          "displayType" : "imageDisplay",
+          "content" :
+            [
+              "https://www.filledstacks.com/assets/static/32.81b85c1.ebb7a1aaddfef10313d7bab97243d449.jpg",
+              "https://www.filledstacks.com/assets/static/32.81b85c1.ebb7a1aaddfef10313d7bab97243d449.jpg"
+            ]
+        }
+      ]
+    }
+  ]
+}

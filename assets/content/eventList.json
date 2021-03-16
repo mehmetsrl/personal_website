@@ -1,0 +1,59 @@
+{
+"events":
+  [
+    {
+      "eventId" : "0",
+      "eventName" : "Academic Event",
+      "type" : "academic",
+      "details" : "I started school at somewhere",
+      "imageUrl": "",
+      "time" : "2010-01-07T12:09:40.477876",
+      "linkedProductId" : "-1"
+    },
+    {
+      "eventId" : "1",
+      "eventName" : "Academic Event",
+      "type" : "academic",
+      "details" : "I graduated from at somewhere",
+      "imageUrl": "",
+      "time" : "2015-01-07T12:09:40.477876",
+      "linkedProductId" : "-1"
+    },
+    {
+      "eventId" : "2",
+      "eventName" : "Occupational Event",
+      "type" : "occupational",
+      "details" : "I started job at somewhere",
+      "imageUrl": "",
+      "time" : "2016-02-07T12:09:40.477876",
+      "linkedProductId" : "-1"
+    },
+    {
+      "eventId" : "3",
+      "eventName" : "Award Event",
+      "type" : "award",
+      "details" : "I won something",
+      "imageUrl": "",
+      "time" : "2013-01-07T12:09:40.477876",
+      "linkedProductId" : "-1"
+    },
+    {
+      "eventId" : "4",
+      "eventName" : "Certification Event",
+      "type" : "certification",
+      "details" : "I took this course from somewhere",
+      "imageUrl": "",
+      "time" : "2012-01-07T12:09:40.477876",
+      "linkedProductId" : "-1"
+    },
+    {
+      "eventId" : "5",
+      "eventName" : "Hobby Event",
+      "type" : "hobby",
+      "details" : "I start learn some sport activities",
+      "imageUrl": "",
+      "time" : "2014-01-07T12:09:40.477876",
+      "linkedProductId" : "-1"
+    }
+  ]
+}
